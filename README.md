@@ -1,7 +1,6 @@
 ## Hi 👋, I'm Andrés Cruz
 
-I'm a Software Engineer @ Globant, currently working on the [MagnifAI](https://magnif.ai/) project.   
-I specialize in front-end development, particularly with React, creating engaging and responsive user interfaces.
+I'm a Full Stack Software Engineer specialized in Node.js, React, and AWS. I build scalable web applications using microservices and distributed architectures, delivering reliable, cloud-native solutions end to end.
 
 ### 🛠 Tech Stack
 <p align="left">
